@@ -1,0 +1,23 @@
+[
+    {
+        "id": "0",
+        "name": "Phone",
+        "qty": 20,
+        "price": "20000",
+        "isAvailable": true
+    },
+    {
+        "id": "1",
+        "name": "Battery",
+        "qty": 10,
+        "price": "20000",
+        "isAvailable": true
+    },
+    {
+        "id": "2",
+        "name": "Charger",
+        "qty": 50,
+        "price": "20000",
+        "isAvailable": true
+    }
+]
